@@ -1,0 +1,32 @@
+{
+  "gitSyncId": "687992c0b7f0d13dc5d819d2_8f53a0ad-adb3-4d40-b049-0e4c89c861bd",
+  "id": "Refresh-Content_constants",
+  "unpublishedCollection": {
+    "name": "constants",
+    "pageId": "Refresh-Content",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "projectId",
+        "value": "'48563496'"
+      },
+      {
+        "name": "colours",
+        "value": "{\n  SUCCESS: '#15803d',\n  FAIL: '#e15615'\n}"
+      },
+      {
+        "name": "icons",
+        "value": "{\n  SUCCESS: 'tick-circle',\n  FAIL: 'error'\n}"
+      },
+      {
+        "name": "catalogues",
+        "value": "[{\n  name: 'All Products and Offers',\n  value: 'all'\n}, {\n  name: 'Mobile Products',\n  value: 'mobile'\n}, {\n  name: 'Mobile-Data Products',\n  value: 'mobile-data'\n}, {\n  name: 'NBN Products',\n  value: 'nbn'\n}, {\n  name: 'Offers',\n  value: 'offers'\n}]"
+      },
+      {
+        "name": "environments",
+        "value": "[{\n  name: 'dev'\n}, {\n  name: 'dev01'\n}, {\n  name: 'dev02'\n}, {\n  name: 'dev03'\n}, {\n  name: 'dev06'\n}, {\n  name: 'dev07'\n}, {\n  name: 'at'\n}, {\n  name: 'at01'\n}, {\n  name: 'at02'\n}, {\n  name: 'sit'\n}, {\n  name: 'preprod'\n}, {\n  name: 'svt'\n}]"
+      }
+    ]
+  }
+}

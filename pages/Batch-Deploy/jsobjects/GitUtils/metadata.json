@@ -1,0 +1,14 @@
+{
+  "gitSyncId": "687992c0b7f0d13dc5d819d2_fee2965c-2c3b-418d-a250-586d4a6f81a1",
+  "id": "Batch-Deploy__$GitUtils$_GitUtils",
+  "isPublic": true,
+  "moduleInstanceId": "Batch-Deploy_GitUtils",
+  "rootModuleInstanceId": "Batch-Deploy_GitUtils",
+  "unpublishedCollection": {
+    "contextType": "PAGE",
+    "name": "_$GitUtils$_GitUtils",
+    "pageId": "Batch-Deploy",
+    "pluginId": "js-plugin",
+    "pluginType": "JS"
+  }
+}

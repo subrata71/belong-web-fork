@@ -1,0 +1,41 @@
+{
+  "gitSyncId": "687992c0b7f0d13dc5d819d2_8543ea64-a159-433e-aa5e-8bf79da89389",
+  "id": "Refresh-Content_GitUtils",
+  "moduleUUID": "4604295c-254f-4396-a3a0-210637105ad6",
+  "packageUUID": "06d850d6-8deb-44a1-9850-1ba8a8a2ef1b",
+  "type": "JS_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "createPipeline": "[]",
+      "getBranches": "[]",
+      "getTags": "[]"
+    },
+    "moduleInputs": {
+      "adtotgeauj": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "adtotgeauj",
+        "label": "getBranches",
+        "propertyName": "inputs.getBranches"
+      },
+      "lxpwkuodnx": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "lxpwkuodnx",
+        "label": "createPipeline",
+        "propertyName": "inputs.createPipeline"
+      },
+      "mqeoxzusje": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "mqeoxzusje",
+        "label": "getTags",
+        "propertyName": "inputs.getTags"
+      }
+    },
+    "name": "GitUtils",
+    "pageId": "Refresh-Content",
+    "version": "v1.1.9"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "gitSyncId": "687992c0b7f0d13dc5d819d2_bdb783f1-0d3d-46e7-83bd-04f0fa7bc026",
+  "id": "Create-Contentful-Release__$GitUtils$_GitUtils",
+  "isPublic": true,
+  "moduleInstanceId": "Create-Contentful-Release_GitUtils",
+  "rootModuleInstanceId": "Create-Contentful-Release_GitUtils",
+  "unpublishedCollection": {
+    "contextType": "PAGE",
+    "name": "_$GitUtils$_GitUtils",
+    "pageId": "Create-Contentful-Release",
+    "pluginId": "js-plugin",
+    "pluginType": "JS"
+  }
+}

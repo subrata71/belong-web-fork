@@ -1,0 +1,74 @@
+{
+  "gitSyncId": "687992c0b7f0d13dc5d819d2_03886b08-78bb-422c-8475-0cfbfb9694ba",
+  "id": "Create-Release_selectBaseBranch",
+  "moduleUUID": "092ab73f-05f4-4d89-8299-7996b77a92fe",
+  "packageUUID": "920282a7-6bc8-4a53-8843-a3ee425f0498",
+  "type": "UI_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "dynamicBindingPathList": [
+      {
+        "key": "isDisabled"
+      },
+      {
+        "key": "filter"
+      }
+    ],
+    "inputs": {
+      "isDisabled": "{{Controller.isBranchSelectDisabled}}",
+      "isLabelBold": "true",
+      "label": "Base Branch",
+      "placeholder": "none",
+      "projectId": "48563496",
+      "tooltip": ""
+    },
+    "moduleInputs": {
+      "bsmgjrldxe": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "false",
+        "id": "bsmgjrldxe",
+        "label": "isDisabled",
+        "propertyName": "inputs.isDisabled"
+      },
+      "dczpxwtaaz": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "Branch",
+        "id": "dczpxwtaaz",
+        "label": "label",
+        "propertyName": "inputs.label"
+      },
+      "nufdmmszuq": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "nufdmmszuq",
+        "label": "projectId",
+        "propertyName": "inputs.projectId"
+      },
+      "pshxpozcff": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "true",
+        "id": "pshxpozcff",
+        "label": "isLabelBold",
+        "propertyName": "inputs.isLabelBold"
+      },
+      "yepspzdzvr": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "yepspzdzvr",
+        "label": "tooltip",
+        "propertyName": "inputs.tooltip"
+      },
+      "yjqsaiovvi": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "none",
+        "id": "yjqsaiovvi",
+        "label": "placeholder",
+        "propertyName": "inputs.placeholder"
+      }
+    },
+    "name": "selectBaseBranch",
+    "pageId": "Create-Release",
+    "version": "v2.2.6",
+    "widgetId": "f33te7rze5"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "687992c0b7f0d13dc5d819d2_63267308-113b-419f-b481-278e72a6e345",
+  "id": "Product-Sync_Controller",
+  "unpublishedCollection": {
+    "name": "Controller",
+    "pageId": "Product-Sync",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "resultIcon",
+        "value": "'lock'"
+      },
+      {
+        "name": "resultColour",
+        "value": "'#333'"
+      }
+    ]
+  }
+}

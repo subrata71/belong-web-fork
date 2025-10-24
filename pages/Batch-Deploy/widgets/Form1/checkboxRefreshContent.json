@@ -1,0 +1,48 @@
+{
+  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+  "alignWidget": "LEFT",
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 31,
+  "defaultCheckedState": false,
+  "dynamicBindingPathList": [
+    {
+      "key": "accentColor"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicTriggerPathList": [],
+  "isDisabled": false,
+  "isLoading": false,
+  "isRequired": false,
+  "isVisible": true,
+  "key": "uevf7tud1i",
+  "label": "Refresh Content",
+  "labelPosition": "Right",
+  "labelStyle": "BOLD",
+  "leftColumn": 1,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 31,
+  "mobileLeftColumn": 2,
+  "mobileRightColumn": 14,
+  "mobileTopRow": 27,
+  "needsErrorInfo": false,
+  "originalBottomRow": 34,
+  "originalTopRow": 29,
+  "parentColumnSpace": 6.4140625,
+  "parentId": "mub43y0gjk",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 24,
+  "topRow": 27,
+  "type": "CHECKBOX_WIDGET",
+  "version": 1,
+  "widgetId": "mjy2w4sikx",
+  "widgetName": "checkboxRefreshContent"
+}

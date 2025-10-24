@@ -1,0 +1,32 @@
+{
+  "gitSyncId": "687992c0b7f0d13dc5d819d2_46728493-a8c9-4e78-a306-3e8bf950defc",
+  "id": "Dashboard_Controller",
+  "unpublishedCollection": {
+    "name": "Controller",
+    "pageId": "Dashboard",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "deployPage",
+        "value": "'Batch-Deploy'"
+      },
+      {
+        "name": "projectPath",
+        "value": "'digital/belong-web'"
+      },
+      {
+        "name": "apiEnvs",
+        "value": "['DEV', 'DEV01', 'DEV02', 'AT', 'AT01', 'AT02', 'SIT', 'PREPROD', 'PRODUCTION', 'SVT']"
+      },
+      {
+        "name": "contentfulEnvs",
+        "value": "['PRODUCTION']"
+      },
+      {
+        "name": "environments",
+        "value": "[{\n  name: 'DEV'\n}, {\n  name: 'DEV01'\n}, {\n  name: 'DEV02'\n}, {\n  name: 'DEV03'\n}, {\n  name: 'DEV06'\n}, {\n  name: 'DEV07'\n}, {\n  name: 'AT'\n}, {\n  name: 'AT01'\n}, {\n  name: 'AT02'\n}, {\n  name: 'SIT'\n}, {\n  name: 'PREPROD'\n}, {\n  name: 'PRODUCTION'\n}, {\n  name: 'SVT'\n}, {\n  name: 'PREVIEW'\n}]"
+      }
+    ]
+  }
+}

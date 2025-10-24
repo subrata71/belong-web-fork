@@ -1,0 +1,51 @@
+export default {
+	resultIcon: 'lock',
+	resultColour: '#333',
+
+	async onPageLoad () {
+		AuthUtils.checkValidSession().then(isValid => {
+			if (!isValid) {
+				navigateTo('Auth');
+			}
+		});
+	},
+
+	getPipelineParams () {
+		return {
+			TASK: 'release-contentful',
+			RELEASE_CONTENTFUL_APPLY_BREAKING_CHANGES: breakingChanges.isChecked,
+		};
+	},
+
+	async onSubmit() {
+		try {
+			const response = await GitUtils.createPipeline(
+				constants.projectId,
+				'master', 
+				this.getPipelineParams()
+			);
+			this.onSuccess(response);
+
+		} catch (err) {
+			this.onFailure(err);
+		}
+	},
+
+	onSuccess(response) {		
+		resultTitle.setText('Pipeline triggered successfully');
+		resultLink.setText(`<a href="${response.web_url}" target="_blank">View Pipeline #${response.iid}</a>`);
+		this.resultIcon = constants.icons.SUCCESS;
+		this.resultColour = constants.colours.SUCCESS;
+		resultContainer.setVisibility(true);
+	},
+
+	onFailure(err) {
+		console.error('Failed to trigger pipeline', err);
+
+		resultTitle.setText('Trigger failed');
+		resultLink.setText(err.message);
+		this.resultIcon = constants.icons.FAIL;
+		this.resultColour = constants.colours.FAIL;
+		resultContainer.setVisibility(true);
+	}
+}

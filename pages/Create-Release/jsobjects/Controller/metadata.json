@@ -1,0 +1,24 @@
+{
+  "gitSyncId": "687992c0b7f0d13dc5d819d2_e6353cd2-a81e-4067-b688-9cad8c5424d1",
+  "id": "Create-Release_Controller",
+  "unpublishedCollection": {
+    "name": "Controller",
+    "pageId": "Create-Release",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "resultIcon",
+        "value": "'lock'"
+      },
+      {
+        "name": "resultColour",
+        "value": "'#333'"
+      },
+      {
+        "name": "isBranchSelectDisabled",
+        "value": "true"
+      }
+    ]
+  }
+}

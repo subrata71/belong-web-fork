@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "687992c0b7f0d13dc5d819d2_bd6db06c-f334-46da-9d04-5fb14292663a",
+  "id": "Create-Contentful-Release_Controller",
+  "unpublishedCollection": {
+    "name": "Controller",
+    "pageId": "Create-Contentful-Release",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "resultIcon",
+        "value": "'lock'"
+      },
+      {
+        "name": "resultColour",
+        "value": "'#333'"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "gitSyncId": "687992c0b7f0d13dc5d819d2_d2be2cec-34e5-468b-8b36-df10e8e4ee6a",
+  "id": "Dashboard__$AuthUtils1$_AuthUtils",
+  "isPublic": true,
+  "moduleInstanceId": "Dashboard_AuthUtils1",
+  "rootModuleInstanceId": "Dashboard_AuthUtils1",
+  "unpublishedCollection": {
+    "contextType": "PAGE",
+    "name": "_$AuthUtils1$_AuthUtils",
+    "pageId": "Dashboard",
+    "pluginId": "js-plugin",
+    "pluginType": "JS"
+  }
+}

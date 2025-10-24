@@ -1,0 +1,14 @@
+{
+  "gitSyncId": "687992c0b7f0d13dc5d819d2_b3eb374d-925e-443d-9327-c81b61804bcc",
+  "id": "Product-Sync__$GitUtils$_GitUtils",
+  "isPublic": true,
+  "moduleInstanceId": "Product-Sync_GitUtils",
+  "rootModuleInstanceId": "Product-Sync_GitUtils",
+  "unpublishedCollection": {
+    "contextType": "PAGE",
+    "name": "_$GitUtils$_GitUtils",
+    "pageId": "Product-Sync",
+    "pluginId": "js-plugin",
+    "pluginType": "JS"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "gitSyncId": "687992c0b7f0d13dc5d819d2_06c55091-5301-4fe5-b21c-8396b8fa0569",
+  "id": "Batch-Deploy_constants",
+  "unpublishedCollection": {
+    "name": "constants",
+    "pageId": "Batch-Deploy",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "projectId",
+        "value": "'48563496'"
+      },
+      {
+        "name": "colours",
+        "value": "{\n  SUCCESS: '#15803d',\n  FAIL: '#e15615'\n}"
+      },
+      {
+        "name": "icons",
+        "value": "{\n  SUCCESS: 'tick-circle',\n  FAIL: 'error'\n}"
+      },
+      {
+        "name": "apps",
+        "value": "[{\n  name: 'MyAccount',\n  value: 'myaccount'\n}, {\n  name: 'Public',\n  value: 'public'\n}, {\n  name: 'Support',\n  value: 'support'\n}, {\n  name: 'NBN',\n  value: 'nbn'\n}, {\n  name: 'NBN Management',\n  value: 'nbnmanagement'\n}, {\n  name: 'NBN Agent',\n  value: 'nbnagent'\n}, {\n  name: 'Payments',\n  value: 'payments'\n}, {\n  name: 'Identity',\n  value: 'identity'\n}, {\n  name: 'Product Sync',\n  value: 'product-sync'\n}, {\n  name: 'Analytics SSTM',\n  value: 'analytics-sstm'\n}]"
+      },
+      {
+        "name": "environments",
+        "value": "[{\n  name: 'dev'\n}, {\n  name: 'dev01'\n}, {\n  name: 'dev02'\n}, {\n  name: 'dev03'\n}, {\n  name: 'dev04'\n}, {\n  name: 'dev05'\n}, {\n  name: 'dev06'\n}, {\n  name: 'dev07'\n}, {\n  name: 'at01'\n}, {\n  name: 'at02'\n}, {\n  name: 'xyz'\n}]"
+      }
+    ]
+  }
+}

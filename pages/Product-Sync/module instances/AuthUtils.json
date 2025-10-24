@@ -1,0 +1,41 @@
+{
+  "gitSyncId": "687992c0b7f0d13dc5d819d2_d5ab9770-7392-4293-bb5a-7035ba2e1bf3",
+  "id": "Product-Sync_AuthUtils",
+  "moduleUUID": "d4732839-490e-4d71-b795-b8f2047e2705",
+  "packageUUID": "06d850d6-8deb-44a1-9850-1ba8a8a2ef1b",
+  "type": "JS_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "checkValidSession": "[]",
+      "getUserSession": "[]",
+      "storeUserSession": "[]"
+    },
+    "moduleInputs": {
+      "bjwgvqkbem": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "bjwgvqkbem",
+        "label": "storeUserSession",
+        "propertyName": "inputs.storeUserSession"
+      },
+      "jhrorwsgzk": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "jhrorwsgzk",
+        "label": "checkValidSession",
+        "propertyName": "inputs.checkValidSession"
+      },
+      "ktyxpcjtnd": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "ktyxpcjtnd",
+        "label": "getUserSession",
+        "propertyName": "inputs.getUserSession"
+      }
+    },
+    "name": "AuthUtils",
+    "pageId": "Product-Sync",
+    "version": "v1.1.9"
+  }
+}

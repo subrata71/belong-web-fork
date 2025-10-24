@@ -1,0 +1,69 @@
+{
+  "gitSyncId": "687992c0b7f0d13dc5d819d2_87bcd27c-89f0-4fa6-8b79-bb230b92d713",
+  "id": "Dashboard_EnvironmentInfo10",
+  "moduleUUID": "a53803a2-aa78-4d82-bbe2-e8df65c2544e",
+  "packageUUID": "920282a7-6bc8-4a53-8843-a3ee425f0498",
+  "type": "UI_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "dynamicBindingPathList": [
+      {
+        "key": "deployPage"
+      },
+      {
+        "key": "projectPath"
+      },
+      {
+        "key": "environment"
+      }
+    ],
+    "inputs": {
+      "appName": "Contentful",
+      "deployPage": "{{Controller.deployPage}}",
+      "environment": "{{Controller.getEnvironmentName('contentful')}}",
+      "projectPath": "{{Controller.projectPath}}",
+      "releasePrefix": "tag"
+    },
+    "moduleInputs": {
+      "jmunymuftr": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "tag",
+        "id": "jmunymuftr",
+        "label": "releasePrefix",
+        "propertyName": "inputs.releasePrefix"
+      },
+      "mfkjyiyaag": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "mfkjyiyaag",
+        "label": "deployPage",
+        "propertyName": "inputs.deployPage"
+      },
+      "mnptiwnjlq": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "at-b3s-api",
+        "id": "mnptiwnjlq",
+        "label": "environment",
+        "propertyName": "inputs.environment"
+      },
+      "xhcnlupdcv": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "b3s-api",
+        "id": "xhcnlupdcv",
+        "label": "appName",
+        "propertyName": "inputs.appName"
+      },
+      "ypsquedccq": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "digital/b3s-allthethings",
+        "id": "ypsquedccq",
+        "label": "projectPath",
+        "propertyName": "inputs.projectPath"
+      }
+    },
+    "name": "EnvironmentInfo10",
+    "pageId": "Dashboard",
+    "version": "v2.2.6",
+    "widgetId": "5ol470hkj7"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 7,
+  "boxShadow": "none",
+  "buttonColor": "{{Controller.resultColour}}",
+  "buttonVariant": "TERTIARY",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    },
+    {
+      "key": "buttonColor"
+    },
+    {
+      "key": "iconName"
+    }
+  ],
+  "dynamicPropertyPathList": [
+    {
+      "key": "buttonColor"
+    },
+    {
+      "key": "iconName"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "iconName": "{{Controller.resultIcon}}",
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "ee6bn503t9",
+  "leftColumn": 0,
+  "minWidth": 50,
+  "mobileBottomRow": 6,
+  "mobileLeftColumn": 10,
+  "mobileRightColumn": 14,
+  "mobileTopRow": 2,
+  "needsErrorInfo": false,
+  "parentColumnSpace": 6.2830810546875,
+  "parentId": "aks9gdd7nv",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "hug",
+  "rightColumn": 12,
+  "topRow": 0,
+  "type": "ICON_BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "etw5gtqkb7",
+  "widgetName": "resultsIcon"
+}

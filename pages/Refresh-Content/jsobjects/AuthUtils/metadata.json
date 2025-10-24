@@ -1,0 +1,14 @@
+{
+  "gitSyncId": "687992c0b7f0d13dc5d819d2_1ca558f9-ed67-488f-a69a-abf416397070",
+  "id": "Refresh-Content__$AuthUtils$_AuthUtils",
+  "isPublic": true,
+  "moduleInstanceId": "Refresh-Content_AuthUtils",
+  "rootModuleInstanceId": "Refresh-Content_AuthUtils",
+  "unpublishedCollection": {
+    "contextType": "PAGE",
+    "name": "_$AuthUtils$_AuthUtils",
+    "pageId": "Refresh-Content",
+    "pluginId": "js-plugin",
+    "pluginType": "JS"
+  }
+}

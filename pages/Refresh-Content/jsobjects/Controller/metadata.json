@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "687992c0b7f0d13dc5d819d2_cb2cbb4d-c4f5-4da3-8bd3-b1c90d31bb99",
+  "id": "Refresh-Content_Controller",
+  "unpublishedCollection": {
+    "name": "Controller",
+    "pageId": "Refresh-Content",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "resultIcon",
+        "value": "'lock'"
+      },
+      {
+        "name": "resultColour",
+        "value": "'#333'"
+      }
+    ]
+  }
+}

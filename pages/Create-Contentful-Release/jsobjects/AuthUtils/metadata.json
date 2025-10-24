@@ -1,0 +1,14 @@
+{
+  "gitSyncId": "687992c0b7f0d13dc5d819d2_fe104837-1222-404d-bae3-bf41295ccfd7",
+  "id": "Create-Contentful-Release__$AuthUtils$_AuthUtils",
+  "isPublic": true,
+  "moduleInstanceId": "Create-Contentful-Release_AuthUtils",
+  "rootModuleInstanceId": "Create-Contentful-Release_AuthUtils",
+  "unpublishedCollection": {
+    "contextType": "PAGE",
+    "name": "_$AuthUtils$_AuthUtils",
+    "pageId": "Create-Contentful-Release",
+    "pluginId": "js-plugin",
+    "pluginType": "JS"
+  }
+}
